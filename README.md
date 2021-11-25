@@ -5,11 +5,11 @@ Patient Characteristics Across Adult Routine Vaccinations: A Descriptive Analysi
 This code was used to query and run analysis on adult vaccination cohorts in the All of Us database, resulting in a research paper (currently in peer review) and a published poster at IDweek 2021.
 
 ## Preview
-Physical T Scores
-![physical_t_scores](https://user-images.githubusercontent.com/17485488/143497405-b4f9f45d-1629-4f60-8bc2-ccce311c1d89.png)
+### Physical T Scores
+<img src="https://user-images.githubusercontent.com/17485488/143497405-b4f9f45d-1629-4f60-8bc2-ccce311c1d89.png" width=700 />
 
-Demographics (age at vaccination)
-![age_at_vaccination copy](https://user-images.githubusercontent.com/17485488/143497453-21127d41-1653-4842-9c76-ce89a546bcfd.png)
+### Demographics (age at vaccination)
+<img src="https://user-images.githubusercontent.com/17485488/143497453-21127d41-1653-4842-9c76-ce89a546bcfd.png" width=700 />
 
 
 ## IDweek 2021 Poster
