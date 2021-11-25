@@ -1,5 +1,5 @@
 # DIVERS
-### Patient Characteristics Across Adult Routine Vaccinations: A Descriptive Analysis of the All of Us Research Program
+Patient Characteristics Across Adult Routine Vaccinations: A Descriptive Analysis of the All of Us Research Program
 
 ## Overview
 This code was used to query and run analysis on adult vaccination cohorts in the All of Us database, resulting in a research paper (currently in peer review) and a published poster at IDweek 2021.
